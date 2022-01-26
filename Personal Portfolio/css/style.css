@@ -80,6 +80,10 @@ section > div {
   background-image: url("https://i.imgur.com/DUuy2W5.jpg");
 }
 
+#info-section .estudios .titulos .certificados img {
+  width: 70vw;
+}
+
 #info-section .estudios .titulos .certificados .carousel {
   position: relative;
 }
